@@ -33,7 +33,6 @@ const assets = {
     menu_icon,
     arrow_icon,
     code,
-    bgImage,
     profile_martin
 }
 
